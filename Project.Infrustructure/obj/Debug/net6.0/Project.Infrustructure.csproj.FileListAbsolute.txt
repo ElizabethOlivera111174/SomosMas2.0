@@ -1,0 +1,17 @@
+C:\Users\luuol\OneDrive\Escritorio\eli\Arquitecrura SM 2.0\Project.Infrustructure\bin\Debug\net6.0\Project.Infrustructure.deps.json
+C:\Users\luuol\OneDrive\Escritorio\eli\Arquitecrura SM 2.0\Project.Infrustructure\bin\Debug\net6.0\Project.Infrustructure.runtimeconfig.json
+C:\Users\luuol\OneDrive\Escritorio\eli\Arquitecrura SM 2.0\Project.Infrustructure\bin\Debug\net6.0\Project.Infrustructure.dll
+C:\Users\luuol\OneDrive\Escritorio\eli\Arquitecrura SM 2.0\Project.Infrustructure\bin\Debug\net6.0\ref\Project.Infrustructure.dll
+C:\Users\luuol\OneDrive\Escritorio\eli\Arquitecrura SM 2.0\Project.Infrustructure\bin\Debug\net6.0\Project.Infrustructure.pdb
+C:\Users\luuol\OneDrive\Escritorio\eli\Arquitecrura SM 2.0\Project.Infrustructure\bin\Debug\net6.0\Project.Domain.dll
+C:\Users\luuol\OneDrive\Escritorio\eli\Arquitecrura SM 2.0\Project.Infrustructure\bin\Debug\net6.0\Project.Domain.pdb
+C:\Users\luuol\OneDrive\Escritorio\eli\Arquitecrura SM 2.0\Project.Infrustructure\obj\Debug\net6.0\Project.Infrustructure.csproj.AssemblyReference.cache
+C:\Users\luuol\OneDrive\Escritorio\eli\Arquitecrura SM 2.0\Project.Infrustructure\obj\Debug\net6.0\Project.Infrustructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luuol\OneDrive\Escritorio\eli\Arquitecrura SM 2.0\Project.Infrustructure\obj\Debug\net6.0\Project.Infrustructure.AssemblyInfoInputs.cache
+C:\Users\luuol\OneDrive\Escritorio\eli\Arquitecrura SM 2.0\Project.Infrustructure\obj\Debug\net6.0\Project.Infrustructure.AssemblyInfo.cs
+C:\Users\luuol\OneDrive\Escritorio\eli\Arquitecrura SM 2.0\Project.Infrustructure\obj\Debug\net6.0\Project.Infrustructure.csproj.CoreCompileInputs.cache
+C:\Users\luuol\OneDrive\Escritorio\eli\Arquitecrura SM 2.0\Project.Infrustructure\obj\Debug\net6.0\Project.Infrustructure.csproj.CopyComplete
+C:\Users\luuol\OneDrive\Escritorio\eli\Arquitecrura SM 2.0\Project.Infrustructure\obj\Debug\net6.0\Project.Infrustructure.dll
+C:\Users\luuol\OneDrive\Escritorio\eli\Arquitecrura SM 2.0\Project.Infrustructure\obj\Debug\net6.0\ref\Project.Infrustructure.dll
+C:\Users\luuol\OneDrive\Escritorio\eli\Arquitecrura SM 2.0\Project.Infrustructure\obj\Debug\net6.0\Project.Infrustructure.pdb
+C:\Users\luuol\OneDrive\Escritorio\eli\Arquitecrura SM 2.0\Project.Infrustructure\obj\Debug\net6.0\Project.Infrustructure.genruntimeconfig.cache

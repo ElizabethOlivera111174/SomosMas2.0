@@ -1,0 +1,10 @@
+C:\Users\luuol\OneDrive\Escritorio\eli\Arquitecrura SM 2.0\Project.Api\obj\Debug\net6.0\Project.Api.csproj.AssemblyReference.cache
+C:\Users\luuol\OneDrive\Escritorio\eli\Arquitecrura SM 2.0\Project.Api\obj\Debug\net6.0\Project.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luuol\OneDrive\Escritorio\eli\Arquitecrura SM 2.0\Project.Api\obj\Debug\net6.0\Project.Api.AssemblyInfoInputs.cache
+C:\Users\luuol\OneDrive\Escritorio\eli\Arquitecrura SM 2.0\Project.Api\obj\Debug\net6.0\Project.Api.AssemblyInfo.cs
+C:\Users\luuol\OneDrive\Escritorio\eli\Arquitecrura SM 2.0\Project.Api\obj\Debug\net6.0\Project.Api.csproj.CoreCompileInputs.cache
+C:\Users\luuol\OneDrive\Escritorio\eli\Arquitecrura SM 2.0\Project.Api\obj\Debug\net6.0\Project.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\luuol\OneDrive\Escritorio\eli\Arquitecrura SM 2.0\Project.Api\obj\Debug\net6.0\Project.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\luuol\OneDrive\Escritorio\eli\Arquitecrura SM 2.0\Project.Api\obj\Debug\net6.0\Project.Api.dll
+C:\Users\luuol\OneDrive\Escritorio\eli\Arquitecrura SM 2.0\Project.Api\obj\Debug\net6.0\ref\Project.Api.dll
+C:\Users\luuol\OneDrive\Escritorio\eli\Arquitecrura SM 2.0\Project.Api\obj\Debug\net6.0\Project.Api.pdb
