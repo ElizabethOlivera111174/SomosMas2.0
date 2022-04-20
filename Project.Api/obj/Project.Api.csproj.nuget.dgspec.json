@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\luuol\\OneDrive\\Escritorio\\eli\\Arquitecrura SM 2.0\\Project.Api\\Project.Api.csproj": {}
+    "C:\\Users\\luuol\\OneDrive\\Escritorio\\eli\\Arquitecrura SM 2.0\\Project.Api\\Project.Api.csproj": {}
   },
   "projects": {
-    "c:\\Users\\luuol\\OneDrive\\Escritorio\\eli\\Arquitecrura SM 2.0\\Project.Api\\Project.Api.csproj": {
+    "C:\\Users\\luuol\\OneDrive\\Escritorio\\eli\\Arquitecrura SM 2.0\\Project.Api\\Project.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\luuol\\OneDrive\\Escritorio\\eli\\Arquitecrura SM 2.0\\Project.Api\\Project.Api.csproj",
+        "projectUniqueName": "C:\\Users\\luuol\\OneDrive\\Escritorio\\eli\\Arquitecrura SM 2.0\\Project.Api\\Project.Api.csproj",
         "projectName": "Project.Api",
-        "projectPath": "c:\\Users\\luuol\\OneDrive\\Escritorio\\eli\\Arquitecrura SM 2.0\\Project.Api\\Project.Api.csproj",
+        "projectPath": "C:\\Users\\luuol\\OneDrive\\Escritorio\\eli\\Arquitecrura SM 2.0\\Project.Api\\Project.Api.csproj",
         "packagesPath": "C:\\Users\\luuol\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\luuol\\OneDrive\\Escritorio\\eli\\Arquitecrura SM 2.0\\Project.Api\\obj\\",
+        "outputPath": "C:\\Users\\luuol\\OneDrive\\Escritorio\\eli\\Arquitecrura SM 2.0\\Project.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\luuol\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -67,20 +67,6 @@
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[6.0.0, )"
-            },
-            "Microsoft.EntityFrameworkCore.Tools": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[6.0.0, )"
-            },
-            "Microsoft.Extensions.DependencyInjection": {
-              "target": "Package",
-              "version": "[6.0.0, )"
-            },
-            "NSwag.Annotations": {
-              "target": "Package",
-              "version": "[13.15.10, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",

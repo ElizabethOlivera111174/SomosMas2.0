@@ -146,7 +146,6 @@ namespace Project.Api.Controllers
         [HttpPut("{id}")]
         public async Task<ActionResult<Result>> Update(int id, [FromForm] UpdateCategoryDTO updateCategoryDTO)
         {
-            var Prueba= updateCategoryDTO.Image.OpenReadStream();
             var request = await _CategoriesServices.Update(id, updateCategoryDTO);
             
             return request.HasErrors

@@ -136,8 +136,8 @@ namespace Project.Api.Controllers
         /// Ejemplo de solicitud: <br></br>
         /// {
         ///     <br></br>
-        ///     "Email": "user@example.com",<br></br>
-        ///     "Password": "alkemy1234"<br></br>
+        ///     "Email": "eliolivera@gmail.com",<br></br>
+        ///     "Password": "123456"<br></br>
         /// }
         /// </remarks>
         /// <param name="LoginDTO">DTO para la creacion de un nuevo Miembro</param>

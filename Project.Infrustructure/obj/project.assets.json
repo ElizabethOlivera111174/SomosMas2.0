@@ -6421,11 +6421,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\luuol\\OneDrive\\Escritorio\\eli\\Arquitecrura SM 2.0\\Project.Infrustructure\\Project.Infrustructure.csproj",
+      "projectUniqueName": "c:\\Users\\luuol\\OneDrive\\Escritorio\\eli\\Arquitecrura SM 2.0\\Project.Infrustructure\\Project.Infrustructure.csproj",
       "projectName": "Project.Infrustructure",
-      "projectPath": "C:\\Users\\luuol\\OneDrive\\Escritorio\\eli\\Arquitecrura SM 2.0\\Project.Infrustructure\\Project.Infrustructure.csproj",
+      "projectPath": "c:\\Users\\luuol\\OneDrive\\Escritorio\\eli\\Arquitecrura SM 2.0\\Project.Infrustructure\\Project.Infrustructure.csproj",
       "packagesPath": "C:\\Users\\luuol\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\luuol\\OneDrive\\Escritorio\\eli\\Arquitecrura SM 2.0\\Project.Infrustructure\\obj\\",
+      "outputPath": "c:\\Users\\luuol\\OneDrive\\Escritorio\\eli\\Arquitecrura SM 2.0\\Project.Infrustructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\luuol\\AppData\\Roaming\\NuGet\\NuGet.Config",

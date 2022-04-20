@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Eh+OuVjED/ww5oYA9+24o393SidRRTj0bvivmj6/7A+FytGn7G5HSrtturzfwFHS2HE7PszvcD0RevI4RGE+yw==",
+  "dgSpecHash": "VhDWkuitlA1qX1ju1qbSWeVKmMEe0f7u4mdzX0ApXJiUD3GPnlD2cyAISZO4YpJmJzpBsW1BoISCDMzRZK+q6A==",
   "success": true,
-  "projectFilePath": "c:\\Users\\luuol\\OneDrive\\Escritorio\\eli\\Arquitecrura SM 2.0\\Project.Api\\Project.Api.csproj",
+  "projectFilePath": "C:\\Users\\luuol\\OneDrive\\Escritorio\\eli\\Arquitecrura SM 2.0\\Project.Api\\Project.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\luuol\\.nuget\\packages\\firebaseauthentication.net\\3.7.2\\firebaseauthentication.net.3.7.2.nupkg.sha512",
     "C:\\Users\\luuol\\.nuget\\packages\\firebasestorage.net\\1.0.3\\firebasestorage.net.1.0.3.nupkg.sha512",
@@ -21,7 +21,6 @@
     "C:\\Users\\luuol\\.nuget\\packages\\microsoft.entityframeworkcore.design\\6.0.0\\microsoft.entityframeworkcore.design.6.0.0.nupkg.sha512",
     "C:\\Users\\luuol\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\6.0.0\\microsoft.entityframeworkcore.relational.6.0.0.nupkg.sha512",
     "C:\\Users\\luuol\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\6.0.0\\microsoft.entityframeworkcore.sqlserver.6.0.0.nupkg.sha512",
-    "C:\\Users\\luuol\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\6.0.0\\microsoft.entityframeworkcore.tools.6.0.0.nupkg.sha512",
     "C:\\Users\\luuol\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\luuol\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\6.0.0\\microsoft.extensions.caching.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\luuol\\.nuget\\packages\\microsoft.extensions.caching.memory\\6.0.0\\microsoft.extensions.caching.memory.6.0.0.nupkg.sha512",
@@ -48,7 +47,6 @@
     "C:\\Users\\luuol\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
     "C:\\Users\\luuol\\.nuget\\packages\\netstandard.library\\1.6.1\\netstandard.library.1.6.1.nupkg.sha512",
     "C:\\Users\\luuol\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
-    "C:\\Users\\luuol\\.nuget\\packages\\nswag.annotations\\13.15.10\\nswag.annotations.13.15.10.nupkg.sha512",
     "C:\\Users\\luuol\\.nuget\\packages\\runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "C:\\Users\\luuol\\.nuget\\packages\\runtime.fedora.23-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.fedora.23-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "C:\\Users\\luuol\\.nuget\\packages\\runtime.fedora.24-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.fedora.24-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
